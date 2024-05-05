@@ -1,0 +1,13 @@
+{
+  "createTask": "Create Task",
+  "cancel": "Cancel",
+  "create": "Create",
+  "update": "Update",
+  "taskName": "Task Name",
+  "description": "Description",
+  "todoList": "Todo List",
+  "createTaskList": "Create Task List",
+  "lightMode": "Light Mode",
+  "darkMode": "Dark Mode",
+  "updateTask": "Update Task"
+}

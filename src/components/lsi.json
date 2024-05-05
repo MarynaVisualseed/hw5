@@ -1,0 +1,26 @@
+{
+  "en": {
+    "createTask": "Create Task",
+    "cancel": "Cancel",
+    "create": "Create",
+    "update": "Update",
+    "taskName": "Task Name",
+    "description": "Description",
+    "todoList": "Todo List",
+    "createTaskList": "Create Task List",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  },
+  "cs": {
+    "createTask": "Vytvořit úkol",
+    "cancel": "Zrušit",
+    "create": "Vytvořit",
+    "update": "Aktualizovat",
+    "taskName": "Název Úkolu",
+    "description": "Popis",
+    "todoList": "Seznam Úkolů",
+    "createTaskList": "Vytvořit Seznam Úkolů",
+    "lightMode": "Světelný Režim",
+    "darkMode": "Tmavý Režim"
+  }
+}

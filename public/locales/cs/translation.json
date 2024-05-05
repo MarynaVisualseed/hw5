@@ -1,0 +1,13 @@
+{
+  "createTask": "Vytvořit úkol",
+  "cancel": "Zrušit",
+  "create": "Vytvořit",
+  "update": "Aktualizovat",
+  "taskName": "Název Úkolu",
+  "description": "Popis",
+  "todoList": "Seznam Úkolů",
+  "createTaskList": "Vytvořit Seznam Úkolů",
+  "lightMode": "Světelný Režim",
+  "darkMode": "Tmavý Režim",
+  "updateTask": "Aktualizovat Úkol"
+}
